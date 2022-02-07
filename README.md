@@ -39,13 +39,23 @@ A person makes a doctor appointment, receives all the instructions and no-show. 
 # Research Questions:
 
  1-    Dose the type of the Gender affect the attendance?
+ 
  2-    Dose Alcoholism affect the attendance?
+ 
  3-    Dose receiving SMS affect the attendance?
+ 
  4-    What is the distribution of Ages according to the attendance?
+ 
  5-    Does the Neighbourhood effect the attendance?
+ 
  6-    How can the Age and Neighbourhood can affect on the attendance together?
+ 
  7-    What is the most and the least chosen AppointmentDay in the week according to the Attendance?
+ 
  8-    What is the oldest Age recorded in the database?
+ 
  9-    What is the Central Tendency of the Age?
+ 
  10-   What is the measure of spread for the Age?
+ 
  11-   What are the least 5 Neighbourhoods who have the least number of patients?
